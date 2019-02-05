@@ -11,6 +11,8 @@ During regular use a user could select between various scenes, as well as toggle
 
 If a user had multiple rooms with smart lights, each room could be defined, calibrated, and then controlled separately within the app.  
 
+Custom scenes could also be created based around the results of the calibration. For example, a user could set their preference for their reading chair to be illuminated as much as possible, while having their couch only have a moderate amount of light. 
+
 # Screenshots
 
 ![screenshot 1](/dahlia_image_1.jpeg)
