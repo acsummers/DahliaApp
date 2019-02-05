@@ -1,11 +1,16 @@
 # DahliaApp
-A showcase of the application I created with Dahlia Lights
+A showcase of the application I created with Dahlia Lights.
 
-#Screenshots
+# Screenshots
 
-#Calibration Process GIF
+#!(/dahlia_image_1.jpeg)
+#!(/dahlia_image_2.jpeg)
+#!(/dahlia_image_3.jpeg)
+#!(/dahlia_image_4.jpeg)
 
-#App description
+# Calibration Process GIF
+
+# App description
 
 Dahlia is a personal lighting designer for your smart lights. Using computer vision, Dahlia measures how your lighting interacts with your furniture to create personalized lighting scenes for your home. 
 
@@ -28,3 +33,5 @@ HOW IT WORKS
 
 *WARNING: during Scene Design your lights will flash quickly. Avoid using the app if you have a problem with flashing lights*
 
+# Information Source and App Store Listing
+All information taken from AppAdvice.com, referenced from the original Apple App store listing. Because Dahlia has since pivoted to a general smart home controller, this app is not currently listed on the store.
