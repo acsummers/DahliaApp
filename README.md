@@ -3,12 +3,14 @@ A showcase of the application I created with Dahlia Lights.
 
 # Screenshots
 
-#!(/dahlia_image_1.jpeg)
-#!(/dahlia_image_2.jpeg)
-#!(/dahlia_image_3.jpeg)
-#!(/dahlia_image_4.jpeg)
+![screenshot 1](/dahlia_image_1.jpeg)
+![screenshot 2](/dahlia_image_2.jpeg)
+![screenshot 3](/dahlia_image_3.jpeg)
+![screenshot 4](/dahlia_image_4.jpeg)
 
 # Calibration Process GIF
+
+![calibration gif](/dahlia_calibration.gif)
 
 # App description
 
