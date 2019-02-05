@@ -7,7 +7,9 @@ Users with Phillips Hue smart lights would calibrate by pointing their phone at 
 
 Then, various lighting 'scenes' would be constructed corresponding to different activities that the user might be doing. For example, a 'TV' scene might lower the lights the calibration found to impact the TV. 
 
-The user could select between various scenes, as well as toggle settings such as brightness and color temperature manually.
+During regular use a user could select between various scenes, as well as toggle settings such as brightness and color temperature manually.
+
+If a user had multiple rooms with smart lights, each room could be defined, calibrated, and then controlled separately within the app.  
 
 # Screenshots
 
