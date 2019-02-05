@@ -24,7 +24,7 @@ Custom scenes could also be created based around the results of the calibration.
 
 ![calibration gif](/dahlia_calibration.gif)
 
-# App description
+# App Store Description
 
 Dahlia is a personal lighting designer for your smart lights. Using computer vision, Dahlia measures how your lighting interacts with your furniture to create personalized lighting scenes for your home. 
 
