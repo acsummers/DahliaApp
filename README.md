@@ -1,5 +1,13 @@
 # DahliaApp
-A showcase of the application I created with Dahlia Lights.
+A showcase of the application I created with Dahlia Lights. 
+
+The application used computer vision to adjust lighting in the home. 
+
+Users with Phillips Hue smart lights would calibrate by pointing their phone at furniture and objects around the room, while the lights flashed on and off. 
+
+Then, various lighting 'scenes' would be constructed corresponding to different activities that the user might be doing. For example, a 'TV' scene might lower the lights the calibration found to impact the TV. 
+
+The user could select between various scenes, as well as toggle settings such as brightness and color temperature manually.
 
 # Screenshots
 
