@@ -48,4 +48,4 @@ HOW IT WORKS
 *WARNING: during Scene Design your lights will flash quickly. Avoid using the app if you have a problem with flashing lights*
 
 # Information Source and App Store Listing
-All information taken from AppAdvice.com, referenced from the original Apple App store listing. Because Dahlia has since pivoted to a general smart home controller, this app is not currently listed on the store.
+All information taken from AppAdvice.com, referenced from the original Apple App store listing. Because Dahlia has since been acquired, this app is not currently listed on the store.
